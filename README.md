@@ -1,6 +1,7 @@
 # Matrix Library: s21_matrix+
 
 s21_matrix+ is a matrix manipulation library implemented in C++ using an object-oriented approach. The project is developed as part of the School 21 educational program.
+The previous project in C can be viewed here: https://github.com/Famur05/matrix-c
 
 ## Description
 
